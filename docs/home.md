@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Homepage
+title: Home
 description: Docs for the project-repo
 permalink: /
 ---
