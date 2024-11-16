@@ -4,4 +4,4 @@ title: Project Homepage
 description: Docs for the project-repo
 permalink: /
 ---
-This is the docs homepage for the [project-repo](https://github.com/gh-pages-project/project-repo). Also visit the [homepage](https://gh-pages-project.github.io/) for my GitHub profile.
+This is the docs homepage for the repo [project-repo](https://github.com/gh-pages-project/project-repo).
